@@ -64,3 +64,9 @@ input[type="submit"] {
   font-weight: bold;
   margin-top: 40px;
 }
+hr {
+  width: 50%;
+  margin: 20px 0;
+  border: none;
+  border-top: 1px solid black;
+}
