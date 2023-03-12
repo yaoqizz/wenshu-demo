@@ -19,6 +19,6 @@ server {
 
 use [let's encrypt](https://letsencrypt.org/).
 
-## Gnuicorn
+## Gunicorn
 
-gnuicorn as service.
+gunicorn as service.
