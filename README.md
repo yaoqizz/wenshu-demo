@@ -1,9 +1,20 @@
 # wenshu-demo
 
-* chatgpt test demo
-* `flask run`
+Check our [demo](https://wenshu-demo.dex.moe)
 
-## features
+## Prerequirement
 
-* basic chat UI
-* record the history of conversation
+```bash
+pip install -r requirements.txt
+```
+
+## Usage
+
+```bash
+flask run
+```
+
+## Features
+
+* Chinese UI
+* Conversation History
