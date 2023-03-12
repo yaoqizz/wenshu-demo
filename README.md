@@ -18,3 +18,5 @@ flask run
 
 * Chinese UI
 * Conversation History
+    * save conversation history for each browsing session
+    * save the hisotry based on ip addr
