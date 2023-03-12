@@ -1,5 +1,7 @@
 ## Nginx
 
+Forward HTTP requests to the application.
+
 - `/etc/nginx/sites-enabled/demo`
 
 ```perl
@@ -15,4 +17,8 @@ server {
 
 ## SSL/TLS
 
-use [let's encrypt](https://letsencrypt.org/)
+use [let's encrypt](https://letsencrypt.org/).
+
+## Gnuicorn
+
+gnuicorn as service.
